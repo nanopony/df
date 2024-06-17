@@ -1,4 +1,4 @@
 FooBar
 ======
-CONFLICT HERE
+main
 =======
